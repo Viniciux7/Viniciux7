@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Vinicius 👋</h1>
 
-<!--
-**Viniciux7/Viniciux7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Desenvolvedor full-stack com foco em soluções orientadas a dados e automação inteligente</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://br.linkedin.com/in/vinicius-bonifacio1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vini.15xd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Viniciux7&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mim
+
+Sou desenvolvedor com interesse em construir soluções que **unem código, dados e inteligência artificial** para resolver problemas reais e otimizar processos.
+
+- 🔭 Atuo em projetos full-stack que envolvem **desenvolvimento web**, **análise de dados** e **automação inteligente**
+- 🌱 Em constante evolução — estudando novas formas de aplicar **IA** na melhoria de processos
+- 🎯 Acredito que o melhor código é aquele que **resolve problemas reais** com clareza e eficiência
+- 📫 Como me encontrar: **vini.15xd@gmail.com**
+
+---
+
+### 🛠️ Stack & Ferramentas
+
+**Desenvolvimento**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Dados & Análise**
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 GitHub em números
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viniciux7&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciux7&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Viniciux7&hide_border=true" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"A tecnologia move o mundo. O propósito de quem a usa decide para onde."</i>
+</p>
