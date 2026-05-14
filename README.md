@@ -42,19 +42,6 @@ Sou desenvolvedor com interesse em construir soluções que **unem código, dado
 
 ---
 
-### 📊 GitHub em números
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viniciux7&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciux7&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Viniciux7&hide_border=true" alt="Sequência de contribuições"/>
-</p>
-
----
-
 <p align="center">
   <i>"A tecnologia move o mundo. O propósito de quem a usa decide para onde."</i>
 </p>
