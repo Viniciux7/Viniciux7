@@ -14,7 +14,7 @@
       <p align="justify">
         🔭 Atuo em projetos full-stack que envolvem <b>desenvolvimento web</b>, <b>análise de dados</b> e <b>automação inteligente</b>.<br/><br/>
         🌱 Em constante evolução — estudando novas formas de aplicar <b>IA</b> na melhoria de processos.<br/><br/>
-        🎯 Acredito que o melhor código é aquele que <b>resolve problemas reais</b> com clareza e eficiência. 🚀
+        🎯 Acredito que o melhor código é aquele que <b>resolve problemas reais</b> com clareza e eficiência.
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
